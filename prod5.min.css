@@ -996,7 +996,7 @@ button {
     -moz-box-shadow: 0 0 20px #ccc;
     -o-box-shadow: 0 0 20px #ccc;
     -ms-box-shadow: 0 0 20px #ccc;
-    box-shadow: 0 0 10px #272727
+    box-shadow: 0 0 20px #ccc
 }
 
 .magazine-viewport .next-button,.magazine-viewport .previous-button {
